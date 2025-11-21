@@ -1,0 +1,6 @@
+torch
+torchvision
+pyyaml
+tqdm
+opencv-python
+gradio
