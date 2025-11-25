@@ -3,6 +3,6 @@ venv
 readme.txt
 training_history.txt
 uploaded_image.jpg
-model/
+best_model/
 Artifacts/
 logs/
