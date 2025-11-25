@@ -1,0 +1,8 @@
+venv
+.env
+readme.txt
+training_history.txt
+uploaded_image.jpg
+model/
+Artifacts/
+logs/
